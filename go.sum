@@ -28,6 +28,8 @@ github.com/AzureAD/microsoft-authentication-library-for-go v1.2.0/go.mod h1:wP83
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/DarthSim/godotenv v1.3.1 h1:NMWdswlRx2M9uPY4Ux8p/Q/rDs7A97OG89fECiQ/Tz0=
 github.com/DarthSim/godotenv v1.3.1/go.mod h1:B3ySe1HYTUFFR6+TPyHyxPWjUdh48il0Blebg9p1cCc=
+github.com/DarthSim/gofakes3 v0.0.0-20230310080033-c0edf658332b h1:nArMtkIxXYkHq90xuPyulslyN2TyZSTNy9viCwR5WzM=
+github.com/DarthSim/gofakes3 v0.0.0-20230310080033-c0edf658332b/go.mod h1:Cnosl0cRZIfKjTMuH49sQog2LeNsU5Hf4WnPIDWIDV0=
 github.com/DarthSim/gofakes3 v0.0.0-20230502153341-3fc66d2bc272 h1:Gj21neabaU3DEwwVPG6/Vn0GSuDQ1n2m2z1qV33SCI0=
 github.com/DarthSim/gofakes3 v0.0.0-20230502153341-3fc66d2bc272/go.mod h1:Cnosl0cRZIfKjTMuH49sQog2LeNsU5Hf4WnPIDWIDV0=
 github.com/DarthSim/opentelemetry-go-contrib/detectors/aws/ecs v0.0.0-20231005211630-da74c8c22753 h1:aHiZtb6tVFCXzvaly/RWE3yUjJ9J2dCHjGHRGozn/+0=
