@@ -174,4 +174,4 @@ require (
 
 replace go.opentelemetry.io/contrib/detectors/aws/ecs => github.com/DarthSim/opentelemetry-go-contrib/detectors/aws/ecs v0.0.0-20231005211630-da74c8c22753
 
-replace github.com/johannesboyne/gofakes3 => github.com/DarthSim/gofakes3 v0.0.0-20230502153341-3fc66d2bc272
+replace github.com/johannesboyne/gofakes3 => github.com/DarthSim/gofakes3 v0.0.0-20230310080033-c0edf658332b
