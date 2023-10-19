@@ -30,6 +30,8 @@ github.com/DarthSim/godotenv v1.3.1 h1:NMWdswlRx2M9uPY4Ux8p/Q/rDs7A97OG89fECiQ/T
 github.com/DarthSim/godotenv v1.3.1/go.mod h1:B3ySe1HYTUFFR6+TPyHyxPWjUdh48il0Blebg9p1cCc=
 github.com/DarthSim/gofakes3 v0.0.0-20230502153341-3fc66d2bc272 h1:Gj21neabaU3DEwwVPG6/Vn0GSuDQ1n2m2z1qV33SCI0=
 github.com/DarthSim/gofakes3 v0.0.0-20230502153341-3fc66d2bc272/go.mod h1:Cnosl0cRZIfKjTMuH49sQog2LeNsU5Hf4WnPIDWIDV0=
+github.com/DarthSim/opentelemetry-go-contrib/detectors/aws/ecs v0.0.0-20221213190707-3e6928dda855 h1:DTIMq/nF2Ie/506y3gVHYysVskAsrrbBNf9BJBjp8iE=
+github.com/DarthSim/opentelemetry-go-contrib/detectors/aws/ecs v0.0.0-20221213190707-3e6928dda855/go.mod h1:k/l1d1vqL/RVv3cf0qKMXwCMx6hil3XzkKoM9806F/Q=
 github.com/DarthSim/opentelemetry-go-contrib/detectors/aws/ecs v0.0.0-20231005211630-da74c8c22753 h1:aHiZtb6tVFCXzvaly/RWE3yUjJ9J2dCHjGHRGozn/+0=
 github.com/DarthSim/opentelemetry-go-contrib/detectors/aws/ecs v0.0.0-20231005211630-da74c8c22753/go.mod h1:HhlaqoGmg4NOzPYua9HD/Jyhda3hLAAbj3gbALyGPkg=
 github.com/DataDog/appsec-internal-go v1.0.0 h1:2u5IkF4DBj3KVeQn5Vg2vjPUtt513zxEYglcqnd500U=
