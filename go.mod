@@ -18,7 +18,7 @@ require (
 	github.com/fsouza/fake-gcs-server v1.42.2
 	github.com/getsentry/sentry-go v0.25.0
 	github.com/honeybadger-io/honeybadger-go v0.5.0
-	github.com/johannesboyne/gofakes3 v0.0.0-20221128113635-c2f5cc6b5294
+	github.com/johannesboyne/gofakes3 v0.0.0-20240513200200-99de01ee122d
 	github.com/matoous/go-nanoid/v2 v2.0.0
 	github.com/ncw/swift/v2 v2.0.2
 	github.com/newrelic/go-agent/v3 v3.26.0
