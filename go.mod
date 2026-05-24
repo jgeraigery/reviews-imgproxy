@@ -1,6 +1,6 @@
 module github.com/imgproxy/imgproxy/v3
 
-go 1.19
+go 1.25.0
 
 require (
 	cloud.google.com/go/secretmanager v1.11.1
@@ -48,7 +48,7 @@ require (
 	go.uber.org/automaxprocs v1.5.3
 	golang.org/x/image v0.13.0
 	golang.org/x/net v0.15.0
-	golang.org/x/sys v0.13.0
+	golang.org/x/sys v0.44.0
 	google.golang.org/api v0.145.0
 	google.golang.org/grpc v1.58.2
 	gopkg.in/DataDog/dd-trace-go.v1 v1.55.0
