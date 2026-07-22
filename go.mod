@@ -1,6 +1,6 @@
 module github.com/imgproxy/imgproxy/v3
 
-go 1.19
+go 1.25.0
 
 require (
 	cloud.google.com/go/secretmanager v1.11.1
@@ -47,8 +47,8 @@ require (
 	go.opentelemetry.io/otel/trace v1.19.0
 	go.uber.org/automaxprocs v1.5.3
 	golang.org/x/image v0.13.0
-	golang.org/x/net v0.15.0
-	golang.org/x/sys v0.13.0
+	golang.org/x/net v0.56.0
+	golang.org/x/sys v0.46.0
 	google.golang.org/api v0.145.0
 	google.golang.org/grpc v1.58.2
 	gopkg.in/DataDog/dd-trace-go.v1 v1.55.0
@@ -92,7 +92,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/gnostic-models v0.6.8 // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/renameio/v2 v2.0.0 // indirect
 	github.com/google/s2a-go v0.1.7 // indirect
@@ -143,14 +143,14 @@ require (
 	go.uber.org/multierr v1.11.0 // indirect
 	go4.org/intern v0.0.0-20230525184215-6c62f75575cb // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20230525183740-e7c30c78aeb2 // indirect
-	golang.org/x/crypto v0.14.0 // indirect
-	golang.org/x/mod v0.13.0 // indirect
+	golang.org/x/crypto v0.53.0 // indirect
+	golang.org/x/mod v0.36.0 // indirect
 	golang.org/x/oauth2 v0.12.0 // indirect
-	golang.org/x/sync v0.4.0 // indirect
-	golang.org/x/term v0.13.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/sync v0.21.0 // indirect
+	golang.org/x/term v0.44.0 // indirect
+	golang.org/x/text v0.38.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
-	golang.org/x/tools v0.13.0 // indirect
+	golang.org/x/tools v0.45.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20231002182017-d307bd883b97 // indirect
